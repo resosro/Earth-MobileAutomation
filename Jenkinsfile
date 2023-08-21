@@ -1,6 +1,6 @@
 pipeline{
     agent{
-        label : 'RappsDesktop11'
+        label 'RAppsDesktop11'
 
     }
 
